@@ -1,0 +1,4 @@
+apt install php-mbstring
+apt install php-zip
+apt install php-xml
+apt install php-gd
